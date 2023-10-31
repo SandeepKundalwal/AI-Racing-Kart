@@ -1168,10 +1168,10 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 5022602860645237092, guid: 8e0bdcc63c3d15841aa4d90f4d32b632, type: 3}
+  m_Model: {fileID: 0}
   m_InferenceDevice: 0
   m_BehaviorType: 0
-  m_BehaviorName: KartAgent
+  m_BehaviorName: KartAgentBCGAILCuriosity
   TeamId: 0
   m_UseChildSensors: 1
   m_UseChildActuators: 1

@@ -1,5 +1,5 @@
 behaviors:
-  KartAgent:
+  KartAgentBC:
     trainer_type: ppo
     hyperparameters:
       batch_size: 120
@@ -24,4 +24,7 @@ behaviors:
     time_horizon: 1000
     summary_freq: 12000
     threaded: true
-
+    # Add Behavioral Cloning configuration
+    behavioral_cloning:
+      demo_path: C:\Users\DELL\Desktop\AI-Racing-Karts - Imitation\Assets\Demonstrations\KartAgent.demo 
+      strength: 0.5 
