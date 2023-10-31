@@ -2,7 +2,7 @@
 Minor Project for **CS662 - Mobile Virtual Reality & Artificial Intelligence** in which I used Behavioral Cloning to train agents(racing karts) to drive through the race course without crashing into the boundaries. The model is tranined for around 10M steps.
 
 ### An ML-Agents Tutorial
-https://github.com/SandeepKundalwal/Racing-Kart-Imitation-Learning/assets/61798659/bc20b93a-9bdb-470d-b994-62091c7180f7
+https://github.com/SandeepKundalwal/Racing-Kart-Imitation-Learning/assets/61798659/c8e70ac3-32b2-4894-b2c1-fa3c79aadf2e
 
 ## Credits
 
